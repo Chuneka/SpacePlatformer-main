@@ -1,0 +1,4 @@
+Welcome to the guide for My Space Themed Platformer NEA Project.
+The left and right arrow keys are for horizontal movement, the space bar is to jump, and use the enter key to go through portals. In the bottom right white box of the screen it will display a prompt to go through the portal once you are in the correct position.
+Pay attention to the order of portals you go through, you may need to backtrack in order to progress further!
+Have Fun with my NEA Project!
